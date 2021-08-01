@@ -1,1 +1,1 @@
-console.log("Testando o git pelo CMD - segundo push")
+console.log("Testando o git pelo PS - segundo push")
